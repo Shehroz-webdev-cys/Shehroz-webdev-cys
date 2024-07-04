@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shehroz Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [The-Weather-App](https://github.com/Shehroz-webdev-cys/Prodigy_WD_Tasks.git)
+- 🔭 I’m currently working on [The-Weather-App](https://github.com/Shehroz-webdev-cys/Prodigy_WD_Tasks.git), The Spotify Clone Which Will Be Lived Soon.
 
-- 🌱 I’m currently learning **Python, Information Security**
+- 🌱 I’m currently learning **Python, Information Security, Backend Devolopment**
 
-- 👯 I’m looking to collaborate on **The Responsive Landpage**
+- 👯 I’m looking to collaborate on **The Responsive Landpage Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 👨‍💻 All of my projects are available at [ShehrozKhan/About Projects](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📝 I regularly write articles on [ShehrozKhan/articles](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 - 💬 Ask me about **Javascript, Html5, CSS3, Cyber Security Fundamentals and C++**
 
 - 📫 How to reach me **shehrozkhan17.12.05@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📄 Know about my experiences [Shehroz Khan/linkdin](https://www.linkedin.com/in/shehroz-khan-7871802ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- ⚡ Fun fact **I Think I am Pro**
+- ⚡ Fun fact **Everyone is a pro until the real professional steps in**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="left">
 </p>
 
